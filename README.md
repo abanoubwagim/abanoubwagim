@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer.
-- 👨‍💻 As a MIS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a BIS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java and Spring Framework.
 
 
