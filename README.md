@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![netbeans](https://img.shields.io/badge/-netbeans%20-05122A?style=flat&logo=apachenetbeansIde&logoColor=007ACC)&nbsp;
-![Spring boot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Spring)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
 
