@@ -12,8 +12,10 @@
 </p> 
 
 - 🏢 I'm a Software Engineer.
-- 👨‍💻 As a BIS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a BIS student, I constantly learn and explore new technologies to improve my skills.
+- 🛠 I’m currently working with Java for High-level programming,
 - 💬 Ask me about my experience with Java and Spring Framework.
+- 📫 How to reach me: abanoubwagim@gmail.com 
 
 
 ### Connect with Me :
