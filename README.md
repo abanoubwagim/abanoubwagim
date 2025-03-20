@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=35&pause=1000&color=2DA5F7&random=false&width=455&lines=Software+Engineering"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=35&pause=1000&color=2DA5F7&random=false&width=435&lines=Software+Engineering"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer.
