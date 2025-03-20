@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=80&pause=1000&color=2DA5F7&random=false&width=435&lines=Software+Engineer;Back-End Developer Java+Spring+Boot+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=2DA5F7&random=false&width=435&lines=Software+Engineer;Back-End Developer Java+Spring+Boot+Developer">
   </a>
 </p> 
 
@@ -38,7 +38,6 @@
 ## 🛠 Tech Stack:
 ### **💻 Programming Languages:**  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
 
 ### **🚀 Frameworks & Libraries:**  
@@ -54,13 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abanoubwagim&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubwagim&theme=radical" width="48%" />
-</p>
-
----
 
 ## 🔥 Most Used Languages:
 <p align="center">
@@ -70,8 +62,7 @@
 ---
 
 ## 🎯 Current Goals:
-- ✅ Improve **Java & Spring Boot** expertise.  
-- ✅ Gain more experience in **JavaScript & SQL** for full-stack development.  
+- ✅ Improve **Java & Spring Boot** expertise. 
 - ✅ Contribute to **open-source projects**.  
 - ✅ Expand my **problem-solving skills** with coding challenges.  
 
