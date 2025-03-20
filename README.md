@@ -1,41 +1,83 @@
-
-
-
 <h2 align="center">
-  Welcome to Abanoub Wagim's profile!
+  Welcome to Abanoub Wagim's Profile!  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=35&pause=1000&color=2DA5F7&random=false&width=435&lines=Software+Engineering"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=80&pause=1000&color=2DA5F7&random=false&width=435&lines=Software+Engineer;Back-End Developer Java+Spring+Boot+Developer">
+  </a>
 </p> 
 
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a BIS student, I constantly learn and explore new technologies to improve my skills.
-- 🛠 I’m currently working with Java for High-level programming,
-- 💬 Ask me about my experience with Java and Spring Framework.
-- 📫 How to reach me: abanoubwagim@gmail.com 
+## 👨‍💻 About Me
+- 🏢 I’m a **Software Engineer** passionate about building scalable applications.  
+- 🎓 Studying **Business Information Systems (BIS)** and exploring new technologies.  
+- 💻 Currently working with **Java** for high-level programming.  
+- 🚀 Experienced in **Spring Boot, JavaFX, and MySQL** for backend development.  
+- 🛠 Active contributor to **open-source projects** and passionate about **problem-solving**.  
+- 🌱 Currently learning **JavaScript & SQL** to expand my full-stack capabilities.  
+- 💬 Ask me about my experience with **Java, Spring Boot, and Backend Development**.  
+- 📫 Contact me at: **abanoubwagim@gmail.com**  
 
+---
 
-### Connect with Me :
+## 🌐 Connect with Me:
+<a href="https://linkedin.com/in/abanoubwagim" target="_blank">
+  <img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/abanoubwagim" target="_blank">
+  <img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/abanoubwagim" target="_blank">
+  <img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<a href="https://linkedin.com/in/abanoubwagim" target="_blank"><img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/abanoubwagim" target="_blank"><img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/abanoubwagim" target="_blank"><img src="https://img.shields.io/badge/-Abanoub%20Wagim-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+---
+
+## 🛠 Tech Stack:
+### **💻 Programming Languages:**  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+
+### **🚀 Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Spring)&nbsp;
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=openjfx)&nbsp;
+
+### **🛠 Tools & IDEs:**  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![netbeans](https://img.shields.io/badge/-netbeans%20-05122A?style=flat&logo=apachenetbeansIde&logoColor=007ACC)&nbsp;
-![Springboot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Spring)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
 
+---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abanoubwagim&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubwagim&theme=radical" width="48%" />
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanoubwagim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+---
+
+## 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abanoubwagim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</p>
+
+---
+
+## 🎯 Current Goals:
+- ✅ Improve **Java & Spring Boot** expertise.  
+- ✅ Gain more experience in **JavaScript & SQL** for full-stack development.  
+- ✅ Contribute to **open-source projects**.  
+- ✅ Expand my **problem-solving skills** with coding challenges.  
+
+---
+
+## 📈 Profile Views:
 <a href="https://komarev.com/ghpvc/?username=abanoubwagim&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=abanoubwagim&style=for-the-badge">
 </a>
