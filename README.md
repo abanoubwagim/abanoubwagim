@@ -6,12 +6,12 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Expert;Microservices+Architect;Building+Scalable+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3397C7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Expert;Microservices+Architect;Building+Scalable+APIs" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abanoubwagim&style=flat-square&color=orange" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abanoubwagim&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
