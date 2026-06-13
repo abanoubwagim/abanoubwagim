@@ -1,4 +1,4 @@
-# Hi, I’m Abanoub 👋
+# Hi, I’m Abanoub
 
 I’m a backend developer focused on Java and Spring Boot, with a strong interest in building reliable backend systems, designing clean architectures, and understanding how production applications behave under real usage.
 
@@ -143,5 +143,5 @@ If you're a recruiter or engineering team looking for a backend Java developer, 
 
 - Email: abanoubwagim@gmail.com  
 - LinkedIn: https://linkedin.com/in/abanoubwagim  
-- Portfolio: https://abanoubwagim.github.io  
+- Portfolio: https://abanoubwagim.vercel.app 
 - GitHub: https://github.com/abanoubwagim
