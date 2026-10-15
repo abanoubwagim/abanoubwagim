@@ -1,147 +1,156 @@
-# Hi, I’m Abanoub
+# Hi, I'm Abanoub 👋
 
-I’m a backend developer focused on Java and Spring Boot, with a strong interest in building reliable backend systems, designing clean architectures, and understanding how production applications behave under real usage.
+**Java Backend Developer | Spring Boot | Backend Architecture**
 
-Most of my work revolves around backend engineering: APIs, authentication systems, database design, asynchronous communication, and maintainable system structure. I enjoy solving practical engineering problems and understanding the trade-offs behind technical decisions.
+I'm a Java Backend Developer focused on building reliable, maintainable backend systems using Java and Spring Boot. I hold a Bachelor's degree in Business Information Systems and have hands-on experience contributing to production-oriented applications, collaborating on shared codebases, and developing backend projects independently.
 
-I use GitHub to document the projects I build and the technologies I work with as I continue growing as a backend engineer.
+My experience spans REST API development, authentication and authorization, relational database design, asynchronous messaging, and software testing. I'm particularly interested in modular architecture, distributed systems, and the engineering decisions that make applications easier to maintain and operate.
 
----
-
-## What I Work With
-
-**Backend**
-
-* Java 21
-* Spring Boot
-* Spring Security
-* Spring Modulith
-* REST APIs
-* JWT & OAuth2
-* WebSocket
-* RabbitMQ
-* Redis
-
-**Databases & Infrastructure**
-
-* PostgreSQL
-* SQLite
-* Docker
-* Maven
-
-**Testing & Development**
-
-* JUnit
-* Mockito
-* Git & GitHub workflows
-* Layered Architecture
-* Modular Monolith Architecture
-* Event-Driven Design
+I use GitHub to share my projects, document my technical work, and continue growing as a backend engineer.
 
 ---
 
-# Experience
+## 🛠️ Technical Skills
 
-## Backend Developer - Ministry of Youth & Sports of Egypt
+**Languages**
+- Java 17+, SQL
 
-**Cairo International Book Fair 2026**
-*Dec 2025 – Feb 2026*
+**Backend Development**
+- Spring Boot, Spring MVC, Spring Security
+- Spring Data JPA, Hibernate
+- Spring Modulith, Spring Cloud
+- REST APIs, JWT, OAuth2
+- Bean Validation, MapStruct, Lombok
+- OpenAPI / Swagger
 
-Worked as part of a 9-member backend team building a production backend system serving real users during the Cairo International Book Fair 2026.
+**Databases & Messaging**
+- PostgreSQL, MySQL, SQLite
+- Redis
+- RabbitMQ, ActiveMQ Artemis
+- WebSocket, STOMP
 
-My contributions included:
+**Architecture & Engineering**
+- Modular Monolith Architecture
+- Microservices Architecture
+- Event-Driven Design
+- Outbox Pattern
+- Layered Architecture
+- Database Migrations with Liquibase and Flyway
 
-* Developing backend features and API endpoints using Spring Boot
-* Building real-time notification workflows using WebSocket communication
-* Designing relational database structures for Events and Announcements modules
-* Resolving a critical N+1 query issue through query optimization and improved data fetching strategies
-* Improving API consistency by standardizing request and response structures
-* Strengthening JWT authorization handling for inactive or restricted users
-* Participating in code reviews, pull requests, and collaborative GitHub workflows
-
-Received recognition from the Ministry as **Best Volunteer** for technical contribution, collaboration, and performance during the project lifecycle.
-
----
-
-## Featured Project - UniHub
-
-A backend-focused modular platform connecting students, universities, and companies within a unified system.
-
-Built as a solo project to explore production-oriented backend architecture patterns and scalable system organization.
-
-### Key Highlights
-
-* Modular Monolith architecture using Spring Modulith
-* Event-driven communication between modules
-* JWT and OAuth2 authentication
-* WebSocket-based real-time chat and notifications
-* RabbitMQ integration with Outbox Pattern
-* Redis-based token management and rate limiting
-* Layered architecture with strict module boundaries
-* 286+ unit tests covering backend logic
-
-### Tech Stack
-
-Java 21, Spring Boot 3, PostgreSQL, Redis, RabbitMQ, WebSocket, Angular, JWT, OAuth2
-
-Repository:
-
-* github.com/abanoubwagim/unihub
+**Testing, Tools & DevOps**
+- JUnit 5, Mockito
+- Maven, Git, GitHub
+- Azure DevOps, Docker
+- Postman, IntelliJ IDEA
+- CI/CD fundamentals
 
 ---
 
-## Other Projects
+## Experience
 
-### Scout Management System
+### Java Backend Developer Intern — Algoora Systems
+**Jul 2026 – Sep 2026 | Remote**
 
-Designed and developed a full-stack offline-first management system for scout organizations.
+Contributed to a production Spring Boot microservices platform for pharmacy inventory and order management (PIMS).
 
-Features included:
+- Developed and maintained REST API features within a shared backend codebase.
+- Implemented CRUD operations and city-related functionality using service, repository, and DTO/VTO mapping layers.
+- Worked with service discovery using Eureka and API documentation using OpenAPI/Swagger.
+- Contributed to database schema management and versioned migrations using Liquibase.
+- Worked with ActiveMQ Artemis in an asynchronous messaging environment.
+- Collaborated through Azure DevOps, user stories, pull requests, code reviews, and Agile Scrum workflows.
 
-* QR-based attendance tracking
-* Member and activity management
-* Financial operations and payment tracking
-* Local SQLite persistence
-* Simulated automated notification workflows
+### Backend Developer — BookFairGo
+**Ministry of Youth & Sports of Egypt | Cairo International Book Fair 2026**  
+**Dec 2025 – Feb 2026**
 
-Built using Spring Boot, HTML, CSS, JavaScript, and Bootstrap.
+Contributed to a nine-member backend team building a system for the Cairo International Book Fair.
 
----
+- Developed backend features and REST API endpoints using Spring Boot.
+- Implemented real-time notifications using WebSocket and STOMP.
+- Designed relational database structures for events and announcements.
+- Investigated and optimized an N+1 query issue through improved data-fetching strategies.
+- Improved API consistency and strengthened JWT authorization handling for inactive or restricted users.
+- Collaborated through GitHub pull requests, code reviews, and team development workflows.
 
-# Learning Journey
-
-Alongside personal projects, I completed technical training programs in:
-
-* Java Development - ITI
-* Mobile Development (Flutter, Kotlin) - DEPI
-* Frontend Development - NTI
-
-These experiences helped strengthen my understanding of software fundamentals, teamwork, and structured development workflows.
-
-I also contributed as a mentor and speaker in the Java track at GDSC, supporting peers through technical sessions and collaborative learning activities.
-
----
-
-# What I Care About
-
-I value:
-
-* Clear and maintainable backend architecture
-* Writing code that scales beyond small demos
-* Understanding system behavior under real conditions
-* Clean API design
-* Practical testing
-* Continuous improvement through building
-
-I’m especially interested in backend engineering roles where I can continue learning from experienced teams while contributing to real systems.
+Recognized with the **Best Volunteer** award for technical contribution, collaboration, and performance.
 
 ---
 
-## Let’s Connect
+## Projects
 
-If you're a recruiter or engineering team looking for a backend Java developer, feel free to reach out or explore my work.
+### UniHub — Modular Student Platform
 
-- Email: abanoubwagim@gmail.com  
-- LinkedIn: https://linkedin.com/in/abanoubwagim  
-- Portfolio: https://abanoubwagim.vercel.app 
-- GitHub: https://github.com/abanoubwagim
+A backend-focused platform connecting students, universities, and companies through a modular application architecture.
+
+**Key Highlights**
+- Built using Java 21, Spring Boot 3, and Spring Modulith.
+- Designed module boundaries and event-driven communication.
+- Implemented JWT and OAuth2 authentication.
+- Developed real-time chat and notifications using WebSocket/STOMP.
+- Integrated RabbitMQ with the Outbox Pattern for reliable event publishing.
+- Used Redis for token management, caching, and rate limiting.
+- Managed database evolution through Flyway migrations.
+- Wrote 286+ tests to validate backend behavior.
+
+**Tech Stack:** Java 21, Spring Boot, Spring Modulith, PostgreSQL, Redis, RabbitMQ, WebSocket/STOMP, Angular, JWT, OAuth2.
+
+[View Repository](https://github.com/abanoubwagim/unihub)
+
+### Scout Management System — ElAgaybi Scouts
+
+A management platform concept for scout organizations, focusing on member registration, activities, attendance, and financial operations.
+
+**Key Features**
+- QR-based attendance tracking.
+- Member and activity management.
+- Financial operations and payment tracking.
+- Offline-first data handling with SQLite.
+- Backend development with Java and Spring Boot.
+
+**Tech Stack:** Java, Spring Boot, SQLite, HTML, CSS, JavaScript, Bootstrap.
+
+### PIMS — Pharmacy Inventory Management System
+
+Contributed to a production-oriented microservices platform during my internship at Algoora Systems.
+
+**Key Areas:** REST APIs, service discovery, database migrations, API documentation, and asynchronous messaging.
+
+---
+
+## 🎓 Education & Training
+
+**Bachelor's Degree in Business Information Systems**  
+Higher Institute for Specific Studies | 2022–2026  
+GPA: 3.03/4.00 — Very Good
+
+**Technical Training**
+- Java Development — Information Technology Institute (ITI)
+- Mobile Development (Flutter) — Digital Egypt Pioneers Initiative (DEPI)
+- Frontend Development — National Telecommunication Institute (NTI)
+
+**Community Contribution**
+
+Previously contributed as a Java Core Team member at Google Developer Student Clubs (GDSC), supporting technical sessions, peer learning, and collaborative Java projects.
+
+---
+
+## 🎯 What I'm Interested In
+
+- Building maintainable and reliable backend systems.
+- Designing clean APIs and well-structured application modules.
+- Understanding database performance and query optimization.
+- Applying asynchronous messaging and event-driven architecture.
+- Writing meaningful automated tests.
+- Learning from experienced engineers and contributing to production systems.
+
+I'm interested in **Junior Java Backend Developer and Java Spring Boot opportunities**, where I can contribute to real-world applications and continue developing my engineering skills.
+
+---
+
+## 🤝 Let's Connect
+
+- **Email:** [abanoubwagim@gmail.com](mailto:abanoubwagim@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abanoubwagim](https://linkedin.com/in/abanoubwagim)
+- **Portfolio:** [abanoubwagim.vercel.app](https://abanoubwagim.vercel.app)
+- **GitHub:** [github.com/abanoubwagim](https://github.com/abanoubwagim)
