@@ -2,7 +2,7 @@
 
 **Java Software Engineer | Spring Boot | Backend Architecture**
 
-I'm a Java Software Engineer focused on building reliable, maintainable backend systems using Java and Spring Boot. I hold a Bachelor's degree in Business Information Systems and have hands-on experience contributing to production-oriented applications, collaborating on shared codebases, and developing backend projects independently.
+I'm a Java Software Engineer focused on building reliable, maintainable backend systems using Java and Spring Boot. I hold a Bachelor's degree in Business Information Systems and have hands-on experience contributing to production-oriented applications, collaborating on shared codebases, and independently developing backend projects.
 
 My experience spans REST API development, authentication and authorization, relational database design, asynchronous messaging, and software testing. I'm particularly interested in modular architecture, distributed systems, and the engineering decisions that make applications easier to maintain and operate.
 
@@ -48,7 +48,22 @@ I use GitHub to share my projects, document my technical work, and continue grow
 
 ## Experience
 
-### Java Backend Developer Intern — Algoora Systems
+### Backend Developer & Team Member - NASA Space Apps Challenge 2026
+**MoonBase: 4 Days to Survive | Certificate of Participation**
+
+Participated in the NASA Space Apps Challenge 2026 with a team to build an educational lunar survival game for young explorers.
+
+- Designed a backend-authoritative stateless API using Java 17 and Spring Boot.
+- Built a deterministic mission engine that validates and replays ordered player decisions.
+- Integrated NASA CCMC DONKI server-side as space-weather context.
+- Implemented request validation, centralized error handling, timeouts, retries, caching, and archived fallback data.
+- Separated NASA scientific evidence from game assumptions and preserved source attribution and limitations.
+- Added automated tests and verified the complete four-day mission flow.
+
+**Project Repository:**  
+[View Repository](https://github.com/abanoubwagim/junior-astronaut-mission-trainer)
+
+### Java Backend Developer Intern - Algoora Systems
 **Jul 2026 – Sep 2026 | Remote**
 
 Contributed to a production Spring Boot microservices platform for pharmacy inventory and order management (PIMS).
@@ -60,7 +75,7 @@ Contributed to a production Spring Boot microservices platform for pharmacy inve
 - Worked with ActiveMQ Artemis in an asynchronous messaging environment.
 - Collaborated through Azure DevOps, user stories, pull requests, code reviews, and Agile Scrum workflows.
 
-### Backend Developer — BookFairGo
+### Backend Developer - BookFairGo
 **Ministry of Youth & Sports of Egypt | Cairo International Book Fair 2026**  
 **Dec 2025 – Feb 2026**
 
