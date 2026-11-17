@@ -1,8 +1,8 @@
 # Hi, I'm Abanoub 👋
 
-**Java Backend Developer | Spring Boot | Backend Architecture**
+**Java Software Engineer | Spring Boot | Backend Architecture**
 
-I'm a Java Backend Developer focused on building reliable, maintainable backend systems using Java and Spring Boot. I hold a Bachelor's degree in Business Information Systems and have hands-on experience contributing to production-oriented applications, collaborating on shared codebases, and developing backend projects independently.
+I'm a Java Software Engineer focused on building reliable, maintainable backend systems using Java and Spring Boot. I hold a Bachelor's degree in Business Information Systems and have hands-on experience contributing to production-oriented applications, collaborating on shared codebases, and developing backend projects independently.
 
 My experience spans REST API development, authentication and authorization, relational database design, asynchronous messaging, and software testing. I'm particularly interested in modular architecture, distributed systems, and the engineering decisions that make applications easier to maintain and operate.
 
